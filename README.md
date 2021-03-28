@@ -1,3 +1,6 @@
 # sca-rs
 
-A simple Rust library providing functionality similar to Mark Rosenfelder's [SCA²][http://www.zompist.com/scahelp.html] and the crate [`soundchange`][https://crates.io/crates/soundchange]
+A simple Rust library implementing sound change algorithms. Inspired by Mark Rosenfelder's [Sound Change Applier][sca] and the crate [`soundchange`][soundchange]
+
+[sca]: http://zompist.com/scahelp.html
+[soundchange]: https://crates.io/crates/soundchange
